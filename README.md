@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielborgescarbonari">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=gabrielborgescarbonari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielborgescarbonari&layout=compact&langs_count=7&theme=radical"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielborgescarbonari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielborgescarbonari&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
