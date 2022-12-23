@@ -1,16 +1,28 @@
-### Hi there 👋
+## Eae, eu sou o gabrielborgescarbonari, um jovem físico navegando por águas misteriosas!
 
-<!--
-**gabrielborgescarbonari/gabrielborgescarbonari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com Pós-processamento de imagens médicas
+- 🌱 Estou começando a aprender Data Science, para poder alterar o item acima 😁
+- 🤔 Ainda preciso de muita ajuda com tudo
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/gabrielborgescarbonari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielborgescarbonari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielborgescarbonari&layout=compact&langs_count=7&theme=radical"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="pic" height="200" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/809596172499025963/1055651301222006864/download20221204220113.png"
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/fuigacarbonari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielcarbonari119@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcarbonari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+ ![Snake animation](https://github.com/gabrielborgescarbonari/gabrielborgescarbonari/blob/output/github-contribution-grid-snake.svg)
+ 
