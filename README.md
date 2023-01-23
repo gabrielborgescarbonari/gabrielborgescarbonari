@@ -1,7 +1,6 @@
 ## Eae, eu sou o gabrielborgescarbonari, um jovem físico navegando por águas misteriosas!
 
-- 🔭 Atualmente trabalho com Pós-processamento de imagens médicas
-- 🌱 Estou começando a aprender Data Science, para poder alterar o item acima 😁
+- 🌱 Estou começando a aprender Data Science, então logo postarei vários projetos sobre 😁
 - 🤔 Ainda preciso de muita ajuda com tudo
 - 😄 Pronouns: Ele/Dele
 
