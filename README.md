@@ -1,7 +1,7 @@
 ## Eae, eu sou o gabrielborgescarbonari, um jovem físico navegando por águas misteriosas!
 
-- 🌱 Estou começando a aprender Data Science, então logo postarei vários projetos sobre 😁
-- 🤔 Ainda preciso de muita ajuda com tudo
+- 🌱 Estou fazendo projetos Data Science, então vários projetos sobre! 😁
+- 🙏 Benção ao https://stackoverflow.com/. Obrigado por tudo.
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
